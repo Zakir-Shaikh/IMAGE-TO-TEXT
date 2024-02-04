@@ -1,0 +1,78 @@
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\testocr\testocr\bin\roslyn\csc.exe
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\testocr\testocr\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\testocr\testocr\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\testocr\testocr\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\testocr\testocr\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\testocr\testocr\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\testocr\testocr\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\testocr\testocr\bin\roslyn\System.Collections.Immutable.dll
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\testocr\testocr\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\testocr\testocr\bin\roslyn\vbc.exe
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\testocr\testocr\bin\roslyn\VBCSCompiler.exe
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\testocr\testocr\bin\roslyn\VBCSCompiler.exe.config
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\testocr\testocr\bin\x86\liblept1753.dll
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\testocr\testocr\bin\x86\libtesseract3052.dll
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\testocr\testocr\bin\x64\liblept1753.dll
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\testocr\testocr\bin\x64\libtesseract3052.dll
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\testocr\testocr\bin\testocr.dll.config
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\testocr\testocr\bin\testocr.dll
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\testocr\testocr\bin\testocr.pdb
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\testocr\testocr\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\testocr\testocr\bin\Microsoft.Web.Infrastructure.dll
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\testocr\testocr\bin\System.Web.Helpers.dll
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\testocr\testocr\bin\System.Web.Mvc.dll
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\testocr\testocr\bin\System.Web.Razor.dll
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\testocr\testocr\bin\System.Web.Webpages.Deployment.dll
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\testocr\testocr\bin\System.Web.Webpages.dll
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\testocr\testocr\bin\System.Web.Webpages.Razor.dll
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\testocr\testocr\bin\Tesseract.dll
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\testocr\testocr\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\testocr\testocr\bin\System.Web.Razor.xml
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\testocr\testocr\bin\System.Web.Webpages.xml
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\testocr\testocr\bin\System.Web.Webpages.Deployment.xml
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\testocr\testocr\bin\System.Web.Webpages.Razor.xml
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\testocr\testocr\bin\System.Web.Helpers.xml
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\testocr\testocr\bin\System.Web.Mvc.xml
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\testocr\testocr\obj\Debug\testocr.csprojResolveAssemblyReference.cache
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\testocr\testocr\obj\Debug\testocr.dll
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\testocr\testocr\obj\Debug\testocr.pdb
+C:\Users\zakir\OneDrive\Desktop\textrect\testocr\testocr\bin\roslyn\csc.exe
+C:\Users\zakir\OneDrive\Desktop\textrect\testocr\testocr\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\zakir\OneDrive\Desktop\textrect\testocr\testocr\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\zakir\OneDrive\Desktop\textrect\testocr\testocr\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\zakir\OneDrive\Desktop\textrect\testocr\testocr\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\zakir\OneDrive\Desktop\textrect\testocr\testocr\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\zakir\OneDrive\Desktop\textrect\testocr\testocr\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\zakir\OneDrive\Desktop\textrect\testocr\testocr\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\zakir\OneDrive\Desktop\textrect\testocr\testocr\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\zakir\OneDrive\Desktop\textrect\testocr\testocr\bin\roslyn\vbc.exe
+C:\Users\zakir\OneDrive\Desktop\textrect\testocr\testocr\bin\roslyn\VBCSCompiler.exe
+C:\Users\zakir\OneDrive\Desktop\textrect\testocr\testocr\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\zakir\OneDrive\Desktop\textrect\testocr\testocr\bin\x86\liblept1753.dll
+C:\Users\zakir\OneDrive\Desktop\textrect\testocr\testocr\bin\x86\libtesseract3052.dll
+C:\Users\zakir\OneDrive\Desktop\textrect\testocr\testocr\bin\x64\liblept1753.dll
+C:\Users\zakir\OneDrive\Desktop\textrect\testocr\testocr\bin\x64\libtesseract3052.dll
+C:\Users\zakir\OneDrive\Desktop\textrect\testocr\testocr\bin\testocr.dll.config
+C:\Users\zakir\OneDrive\Desktop\textrect\testocr\testocr\bin\testocr.dll
+C:\Users\zakir\OneDrive\Desktop\textrect\testocr\testocr\bin\testocr.pdb
+C:\Users\zakir\OneDrive\Desktop\textrect\testocr\testocr\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\zakir\OneDrive\Desktop\textrect\testocr\testocr\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\zakir\OneDrive\Desktop\textrect\testocr\testocr\bin\System.Web.Helpers.dll
+C:\Users\zakir\OneDrive\Desktop\textrect\testocr\testocr\bin\System.Web.Mvc.dll
+C:\Users\zakir\OneDrive\Desktop\textrect\testocr\testocr\bin\System.Web.Razor.dll
+C:\Users\zakir\OneDrive\Desktop\textrect\testocr\testocr\bin\System.Web.Webpages.Deployment.dll
+C:\Users\zakir\OneDrive\Desktop\textrect\testocr\testocr\bin\System.Web.Webpages.dll
+C:\Users\zakir\OneDrive\Desktop\textrect\testocr\testocr\bin\System.Web.Webpages.Razor.dll
+C:\Users\zakir\OneDrive\Desktop\textrect\testocr\testocr\bin\Tesseract.dll
+C:\Users\zakir\OneDrive\Desktop\textrect\testocr\testocr\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\zakir\OneDrive\Desktop\textrect\testocr\testocr\bin\System.Web.Razor.xml
+C:\Users\zakir\OneDrive\Desktop\textrect\testocr\testocr\bin\System.Web.Webpages.xml
+C:\Users\zakir\OneDrive\Desktop\textrect\testocr\testocr\bin\System.Web.Webpages.Deployment.xml
+C:\Users\zakir\OneDrive\Desktop\textrect\testocr\testocr\bin\System.Web.Webpages.Razor.xml
+C:\Users\zakir\OneDrive\Desktop\textrect\testocr\testocr\bin\System.Web.Helpers.xml
+C:\Users\zakir\OneDrive\Desktop\textrect\testocr\testocr\bin\System.Web.Mvc.xml
+C:\Users\zakir\OneDrive\Desktop\textrect\testocr\testocr\obj\Debug\testocr.csproj.AssemblyReference.cache
+C:\Users\zakir\OneDrive\Desktop\textrect\testocr\testocr\obj\Debug\testocr.csproj.CoreCompileInputs.cache
+C:\Users\zakir\OneDrive\Desktop\textrect\testocr\testocr\obj\Debug\testocr.csproj.CopyComplete
+C:\Users\zakir\OneDrive\Desktop\textrect\testocr\testocr\obj\Debug\testocr.dll
+C:\Users\zakir\OneDrive\Desktop\textrect\testocr\testocr\obj\Debug\testocr.pdb
